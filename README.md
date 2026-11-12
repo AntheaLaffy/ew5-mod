@@ -20,7 +20,10 @@ ew5-mod/
 
 ## 成品
 
-`build/欧陆战争5_2.6.16_mod_signed.apk`
+- GitHub: https://github.com/AntheaLaffy/ew5-mod
+- Release: https://github.com/AntheaLaffy/ew5-mod/releases/tag/v2.6.16-mod
+
+`build/欧陆战争5_2.6.16_mod_signed.apk`（发布名 `ew5-2.6.16-mod-signed.apk`）
 包名 `com.easytech.ew5` 不变，v1+v2 重签
 SHA-256 `dd77cc76c78de7f414c4fb0e74a6783fa9c5d514ea2a14a24077e85a25737ee4`
 
